@@ -1,0 +1,1 @@
+In this part, I will mark down the knowledge that I think is important in the direction of data structures and algorithms.
